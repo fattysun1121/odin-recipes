@@ -1,0 +1,36 @@
+* {
+  font-family: monospace;
+  background: #cc0;
+  font-size: 22px;
+}
+
+.title, .subtitle{
+  text-align: center;
+  color: #4c9900;
+  font-size: 50px;
+}
+
+.recipes li {
+  padding: 10px;
+  list-style-type: square;
+  list-style-position: inside;
+}
+
+a {
+  color: #630;
+  text-decoration: none;
+}
+
+a:hover {
+  color : #c60;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
+
+.subtitle {
+  font-size: 30px;
+
+}
